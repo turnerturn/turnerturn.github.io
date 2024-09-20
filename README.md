@@ -7,5 +7,5 @@ This repository is a GitHub page tailored to showcase my work, skills, and capab
 Feel free to reach out to me if you have any questions or would like to collaborate on a project. I'm always open to new opportunities and connections.
 
 ---
-
+ 
 Thank you for visiting my portfolio! I hope you enjoy exploring my work as much as I enjoyed creating it. Stay tuned for more updates and projects!
